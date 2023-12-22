@@ -3,7 +3,7 @@
 .idea
 mvnw
 mvnw.cmd
-.gitattributes
+
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
@@ -11,3 +11,4 @@ mvnw.cmd
 /dataSources/
 /dataSources.local.xml
 /.idea/
+.gitattributes
